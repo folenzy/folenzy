@@ -29,6 +29,5 @@
 
 ### 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/USERNAME)
-[![Email](https://img.shields.io/badge/Email-EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL)
-[![hh.ru](https://img.shields.io/badge/hh.ru-резюме-D6001C?style=flat-square)](https://hh.ru/resume/RESUME_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-@folenzy-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/folenzy)
+[![Email](https://img.shields.io/badge/Email-lesha.siruk%40yandex.ru-FC3F1D?style=flat-square&logo=yandex&logoColor=white)](mailto:lesha.siruk@yandex.ru)
